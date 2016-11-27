@@ -7,71 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sat, 26 Nov 2016 22:54:58 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 23:04:14 -0800</lastBuildDate>
     <atom:link href="https://sciexpln.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>About Me</title>
-      <link>https://sciexpln.github.io/page/about-me/</link>
-      <pubDate>Sat, 26 Nov 2016 22:54:58 -0800</pubDate>
+      <title>People Absorb Energy?!</title>
+      <link>https://sciexpln.github.io/2016/11/26/people-absorb-energy</link>
+      <pubDate>Sat, 26 Nov 2016 23:04:14 -0800</pubDate>
       
-      <guid>https://sciexpln.github.io/page/about-me/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;This is just a bit of information about me. I&amp;rsquo;m a graduate student
-working on computational biology. And an avid reader of both fiction,
-history, and popular science. This website is an attempt to analyze and
-discuss in detail, as well as evaluate the evidence for and against
-memes about (pseudo-) science floating around in cyberspace.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://sciexpln.github.io/2016/11/26/introduction</link>
-      <pubDate>Sat, 26 Nov 2016 22:46:45 -0800</pubDate>
-      
-      <guid>https://sciexpln.github.io/2016/11/26/introduction</guid>
-      <description>&lt;p&gt;There is a lot of misinformation floating around on the internet,
-including misinformation about various aspects of science and
-technology. From eminent scientists and science popularizers like &lt;a href=&#34;https://richarddawkins.net/&#34;&gt;Prof.
-Richard Dawkins&lt;/a&gt;, &lt;a href=&#34;http://www.haydenplanetarium.org/tyson/&#34;&gt;Dr. Neil deGrasse
-Tyson&lt;/a&gt;, &lt;a href=&#34;http://krauss.faculty.asu.edu/&#34;&gt;Prof. Lawrence
-Krauss&lt;/a&gt; and
-&lt;a href=&#34;http://www.apolloschildren.com/&#34;&gt;Prof. Brian Cox&lt;/a&gt; to an army of internet activists for science like
-&lt;a href=&#34;http://www.scibabe.com/&#34;&gt;SciBabe&lt;/a&gt;,
-&lt;a href=&#34;https://www.facebook.com/BasicBiologyBabe/&#34;&gt;BiologyBabe&lt;/a&gt;, &lt;a href=&#34;https://ascienceenthusiast.com/&#34;&gt;A Science
-Enthusiast&lt;/a&gt; and many more, a lot of
-scientists and engineers are speaking out against pseudoscience. As not
-only a student of science but also a big fan of the scientific
-enterprise, I would like to add my two bits to the spread of awareness
-and combating the deluge of pseudo-science online. This website is a
-result of that effort.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sciexpln.github.io/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sciexpln.github.io/1/01/01/</guid>
-      <description>&lt;p&gt;[[+++]]
-title = &amp;ldquo;People Absorb Energy?!&amp;rdquo;
-tags = [
-]
-categories = [
-]
-description = &amp;ldquo;&amp;rdquo;
-menu = &amp;ldquo;&amp;rdquo;
-banner = &amp;ldquo;&amp;rdquo;
-images = []
-date = &amp;ldquo;2016-11-26T23:04:14-08:00&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;disable_comments = true&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://sciexpln.github.io/images/universe-man-energy.jpg&#34; alt=&#34;People Absorb Energy?!&#34; /&gt;&lt;/p&gt;
+      <guid>https://sciexpln.github.io/2016/11/26/people-absorb-energy</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sciexpln.github.io/images/universe-man-energy.jpg&#34; alt=&#34;People Absorb Energy?!&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In what has to be an absolute masterclass in obfuscating science to
 peddle woo, a website called &lt;em&gt;Simple Capacity&lt;/em&gt; has gone and hijacked a legitimate scientific
@@ -113,6 +58,45 @@ like outright magic, claims by people like Dr. Bader-Lee, which are a
 bit more subtle, aren&amp;rsquo;t met by the same level of skepticism. Which might
 make these claims just as much as, if not more counter to the actual
 process of genuine science as claims of magic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://sciexpln.github.io/page/about-me/</link>
+      <pubDate>Sat, 26 Nov 2016 22:54:58 -0800</pubDate>
+      
+      <guid>https://sciexpln.github.io/page/about-me/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;This is just a bit of information about me. I&amp;rsquo;m a graduate student
+working on computational biology. And an avid reader of both fiction,
+history, and popular science. This website is an attempt to analyze and
+discuss in detail, as well as evaluate the evidence for and against
+memes about (pseudo-) science floating around in cyberspace.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://sciexpln.github.io/2016/11/26/introduction</link>
+      <pubDate>Sat, 26 Nov 2016 22:46:45 -0800</pubDate>
+      
+      <guid>https://sciexpln.github.io/2016/11/26/introduction</guid>
+      <description>&lt;p&gt;There is a lot of misinformation floating around on the internet,
+including misinformation about various aspects of science and
+technology. From eminent scientists and science popularizers like &lt;a href=&#34;https://richarddawkins.net/&#34;&gt;Prof.
+Richard Dawkins&lt;/a&gt;, &lt;a href=&#34;http://www.haydenplanetarium.org/tyson/&#34;&gt;Dr. Neil deGrasse
+Tyson&lt;/a&gt;, &lt;a href=&#34;http://krauss.faculty.asu.edu/&#34;&gt;Prof. Lawrence
+Krauss&lt;/a&gt; and
+&lt;a href=&#34;http://www.apolloschildren.com/&#34;&gt;Prof. Brian Cox&lt;/a&gt; to an army of internet activists for science like
+&lt;a href=&#34;http://www.scibabe.com/&#34;&gt;SciBabe&lt;/a&gt;,
+&lt;a href=&#34;https://www.facebook.com/BasicBiologyBabe/&#34;&gt;BiologyBabe&lt;/a&gt;, &lt;a href=&#34;https://ascienceenthusiast.com/&#34;&gt;A Science
+Enthusiast&lt;/a&gt; and many more, a lot of
+scientists and engineers are speaking out against pseudoscience. As not
+only a student of science but also a big fan of the scientific
+enterprise, I would like to add my two bits to the spread of awareness
+and combating the deluge of pseudo-science online. This website is a
+result of that effort.&lt;/p&gt;
 </description>
     </item>
     
