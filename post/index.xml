@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on The Scientific Explanation</title>
-    <link>https://example.org/post/index.xml</link>
+    <link>https://sciexpln.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on The Scientific Explanation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 26 Nov 2016 23:04:14 -0800</lastBuildDate>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sciexpln.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>People Absorb Energy?!</title>
-      <link>https://example.org/2016/11/26/people-absorb-energy</link>
+      <link>https://sciexpln.github.io/2016/11/26/people-absorb-energy</link>
       <pubDate>Sat, 26 Nov 2016 23:04:14 -0800</pubDate>
       
-      <guid>https://example.org/2016/11/26/people-absorb-energy</guid>
+      <guid>https://sciexpln.github.io/2016/11/26/people-absorb-energy</guid>
       <description>&lt;p&gt;In what has to be an absolute masterclass in obfuscating science to
 peddle woo, a website called &lt;em&gt;Simple Capacity&lt;/em&gt; has gone and hijacked a legitimate scientific
 study to claim new-age mumbo jumbo.
@@ -61,10 +61,10 @@ process of genuine science as claims of magic.&lt;/p&gt;
     
     <item>
       <title>Introduction</title>
-      <link>https://example.org/2016/11/26/introduction</link>
+      <link>https://sciexpln.github.io/2016/11/26/introduction</link>
       <pubDate>Sat, 26 Nov 2016 22:46:45 -0800</pubDate>
       
-      <guid>https://example.org/2016/11/26/introduction</guid>
+      <guid>https://sciexpln.github.io/2016/11/26/introduction</guid>
       <description>&lt;p&gt;There is a lot of misinformation floating around on the internet,
 including misinformation about various aspects of science and
 technology. From eminent scientists and science popularizers like &lt;a href=&#34;https://richarddawkins.net/&#34;&gt;Prof.

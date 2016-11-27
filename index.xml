@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Scientific Explanation</title>
-    <link>https://example.org/index.xml</link>
+    <link>https://sciexpln.github.io/index.xml</link>
     <description>Recent content on The Scientific Explanation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 26 Nov 2016 23:04:14 -0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sciexpln.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>People Absorb Energy?!</title>
-      <link>https://example.org/2016/11/26/people-absorb-energy</link>
+      <link>https://sciexpln.github.io/2016/11/26/people-absorb-energy</link>
       <pubDate>Sat, 26 Nov 2016 23:04:14 -0800</pubDate>
       
-      <guid>https://example.org/2016/11/26/people-absorb-energy</guid>
+      <guid>https://sciexpln.github.io/2016/11/26/people-absorb-energy</guid>
       <description>&lt;p&gt;In what has to be an absolute masterclass in obfuscating science to
 peddle woo, a website called &lt;em&gt;Simple Capacity&lt;/em&gt; has gone and hijacked a legitimate scientific
 study to claim new-age mumbo jumbo.
@@ -61,10 +61,10 @@ process of genuine science as claims of magic.&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>https://example.org/page/about-me/</link>
+      <link>https://sciexpln.github.io/page/about-me/</link>
       <pubDate>Sat, 26 Nov 2016 22:54:58 -0800</pubDate>
       
-      <guid>https://example.org/page/about-me/</guid>
+      <guid>https://sciexpln.github.io/page/about-me/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;This is just a bit of information about me. I&amp;rsquo;m a graduate student
@@ -76,10 +76,10 @@ memes about (pseudo-) science floating around in cyberspace.&lt;/p&gt;</descript
     
     <item>
       <title>Introduction</title>
-      <link>https://example.org/2016/11/26/introduction</link>
+      <link>https://sciexpln.github.io/2016/11/26/introduction</link>
       <pubDate>Sat, 26 Nov 2016 22:46:45 -0800</pubDate>
       
-      <guid>https://example.org/2016/11/26/introduction</guid>
+      <guid>https://sciexpln.github.io/2016/11/26/introduction</guid>
       <description>&lt;p&gt;There is a lot of misinformation floating around on the internet,
 including misinformation about various aspects of science and
 technology. From eminent scientists and science popularizers like &lt;a href=&#34;https://richarddawkins.net/&#34;&gt;Prof.
