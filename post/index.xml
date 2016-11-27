@@ -48,9 +48,8 @@ categories = [
 ]
 description = &amp;ldquo;&amp;rdquo;
 menu = &amp;ldquo;&amp;rdquo;
-banner = &amp;ldquo;&amp;rdquo;
-images = [images/universe-man-energy.jpg
-]
+banner = &amp;ldquo;images/universe-man-energy.jpg&amp;rdquo;
+images = [images/universe-man-energy.jpg]
 date = &amp;ldquo;2016-11-26T23:04:14-08:00&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;disable_comments = true&lt;/p&gt;
