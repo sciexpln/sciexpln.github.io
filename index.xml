@@ -63,15 +63,15 @@ categories = [
 ]
 description = &amp;ldquo;&amp;rdquo;
 menu = &amp;ldquo;&amp;rdquo;
-banner = &amp;ldquo;images/universe-man-energy.jpg&amp;rdquo;
-images = [images/universe-man-energy.jpg]
+banner = &amp;ldquo;/images/universe-man-energy.jpg&amp;rdquo;
+images = [/images/universe-man-energy.jpg]
 date = &amp;ldquo;2016-11-26T23:04:14-08:00&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;disable_comments = true&lt;/p&gt;
 
 &lt;p&gt;+++&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;images/universe-man-energy.jpg&#34; alt=&#34;People Absorb Energy?!&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sciexpln.github.io/images/universe-man-energy.jpg&#34; alt=&#34;People Absorb Energy?!&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In what has to be an absolute masterclass in obfuscating science to
 peddle woo, a website called &lt;em&gt;Simple Capacity&lt;/em&gt; has gone and hijacked a legitimate scientific
