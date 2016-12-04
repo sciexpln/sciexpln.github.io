@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sat, 26 Nov 2016 23:04:14 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Dec 2016 20:45:09 -0800</lastBuildDate>
     <atom:link href="https://sciexpln.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sydney Students School Shkreli?</title>
+      <link>https://sciexpln.github.io/2016/12/03/sydney-students-school-shkreli</link>
+      <pubDate>Sat, 03 Dec 2016 20:45:09 -0800</pubDate>
+      
+      <guid>https://sciexpln.github.io/2016/12/03/sydney-students-school-shkreli</guid>
+      <description>&lt;p&gt;Setting aside the obvious alliteration in the title of this post, here
+is another instance of scientific misreporting and over exaggeration.
+While the effects of this kind of misreporting are much less severe than
+claiming actual pseudo-scientific mumbo-jumbo, it still contributes to
+the spread of misinformation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Martin_Shkreli&#34;&gt;Martin Skhreli&lt;/a&gt;, also
+known as the &lt;em&gt;Pharma Bro&lt;/em&gt;, is a hedge fund executive who, as the CEO of
+Turing Pharmacuticals, was responsible for Turing&amp;rsquo;s acquisition of a
+drug, Daraprim, an antibiotic used to treat, among other things,
+infections in pregnant women, as well as AIDS and cancer patients, and for
+subsequently jacking up it&amp;rsquo;s price from $\$13.50$ to $\$750$ per tablet.
+This led to &lt;a href=&#34;https://en.wikipedia.org/wiki/Martin_Shkreli#Daraprim_price_hike_controversy&#34;&gt;widespread
+condemnation&lt;/a&gt; from the media, as well as
+politicians, including [then] potential presidential candidates.&lt;/p&gt;
+
+&lt;p&gt;Recently, however, a group of high school students from Sydney,
+Australia synthesized the drug for a measly $\$2$ per tablet. As a high
+school science project, I think this is a fantastic achievement. This
+chemistry is way beyond anything I was capable of, or had resources to
+try, during high school. The media narrative, however, is that this
+group of high school students somehow managed to &lt;a href=&#34;http://www.smh.com.au/technology/sci-tech/sydney-schoolboys-take-down-martin-shkreli-the-most-hated-man-in-the-world-20161125-gsxcu5.html&#34;&gt;&lt;strong&gt;take
+down&lt;/strong&gt;&lt;/a&gt;
+or &lt;a href=&#34;https://www.wired.com/2016/12/internet-week-98/&#34;&gt;&lt;strong&gt;school&lt;/strong&gt;&lt;/a&gt; Martin
+Shkreli. This is another example of the media using sensationalizing
+titles for clickbait, wildly exaggerating the novelty, as well as the
+potential impact of this particular (albeit successful) experiment, on
+this particular problem. Shkreli himself took to
+&lt;a href=&#34;https://twitter.com/MartinShkreli/status/804406960259006464&#34;&gt;twitter&lt;/a&gt;
+to point out that this story was being overblown. However, the ever
+reliable
+&lt;a href=&#34;http://www.snopes.com/2016/12/03/children-synthesize-two-dollar-version-of-martin-shkrelis-750-malaria-drug/&#34;&gt;Snopes&lt;/a&gt;
+has a very good detailed analysis of what the actual level of
+achievement this particular experiment is, in the grander scheme of
+things. &lt;a href=&#34;http://arstechnica.com/science/2016/12/the-dangers-of-thinking-australian-high-school-kids-just-schooled-shkreli/&#34;&gt;Ars
+technica&lt;/a&gt;
+has also pointed out the issues in thinking that these were some child
+prodigy scientists making some unfathomable discoveries.&lt;/p&gt;
+
+&lt;p&gt;The pharmaceutical industry has an army of chemists with PhDs, a lot of
+whom would be in a position to peform the same chemistry the high school
+students did. The Snopes article also links to the &lt;a href=&#34;https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/374&#34;&gt;multiple issues and
+rounds of trial and
+error&lt;/a&gt;
+the high school students faced in their quest to performing this
+synthesis, which required help from trained laboratory technicians. All of
+Snopes, Ars Technica and Shkreli himself also point out the many
+additional stages and layers of complexity to go from a molecule
+synthesis in a test-tube at a laboratory scale, to a commercial
+production at an industrial scale.&lt;/p&gt;
+
+&lt;p&gt;With all these things in perspective, it is essential to realize that
+while the high school students of Sydney Grammar have performed a great
+experiment in the context of their education and their curriculum, it is
+nowhere close to a break through, or something path-breaking, which
+would, in any way alleviate the problem of high Daraprim prices in the
+United States.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>People Absorb Energy?!</title>
@@ -20,8 +86,9 @@
 
 &lt;p&gt;In what has to be an absolute masterclass in obfuscating science to
 peddle woo, a website called &lt;em&gt;Simple Capacity&lt;/em&gt; has gone and hijacked a legitimate scientific
-study to claim new-age mumbo jumbo.
-The actual Nature Communications (a very highly respected scientific
+study to claim new-age mumbo jumbo.&lt;/p&gt;
+
+&lt;p&gt;The actual Nature Communications (a very highly respected scientific
 journal) &lt;a href=&#34;http://www.nature.com/articles/ncomms2210&#34;&gt;paper they cite&lt;/a&gt; is a study of algae that display some parasitic
 behaviour, using enzymes to digest cellulose from other nearby flora in
 addtion to their own photosynthesis for generating energy. I&amp;rsquo;m not a
@@ -32,8 +99,9 @@ to digest cellulose. In an attempt to mimic these natural cellulases, an
 attempt to artificially design cellulose consuming enzymes to use in the
 production of biofuels has been a target of quite a lot of recent
 research in the protein engineering field. So the discovery of algae
-which have this property is quite a useful step in that direction.
-What psychologist and &amp;ldquo;energy healer&amp;rdquo; (whatever that is) Dr. Olivia
+which have this property is quite a useful step in that direction.&lt;/p&gt;
+
+&lt;p&gt;What psychologist and &amp;ldquo;energy healer&amp;rdquo; (whatever that is) Dr. Olivia
 Bader-Lee somehow magically interprets from this in &lt;a href=&#34;http://simplecapacity.com/2016/08/science-confirms-people-absorb-energy-others/&#34;&gt;this
 article&lt;/a&gt;
  [I really don&amp;rsquo;t want to give them any more clicks, but it is
@@ -41,23 +109,29 @@ impossible to make this point without linking the article] is that this
 fact implies that &amp;ldquo;Human physical bodies are like sponges, soaking up
 the environment&amp;rdquo;. Dr. Bader-Lee says “This is exactly why there are
 certain people who feel uncomfortable in specific group settings where
-there is a mix of energy and emotions”.
-Somehow, the discovery of certain enzymes, actual chemical entities
+there is a mix of energy and emotions”.&lt;/p&gt;
+
+&lt;p&gt;Somehow, the discovery of certain enzymes, actual chemical entities
 which catalyze the breakdown of cellulase in algae, translates, in Dr.
-Bader-Lee&amp;rsquo;s mind, into &amp;ldquo;humans can absorb energy from the surroundings&amp;rdquo;!
-To further quote the article,
+Bader-Lee&amp;rsquo;s mind, into &amp;ldquo;humans can absorb energy from the surroundings&amp;rdquo;!&lt;/p&gt;
+
+&lt;p&gt;To further quote the article,
 &amp;ldquo;Bader-Lee suggests that the field of bioenergy is now ever evolving and
 that studies on the plant and animal world will soon translate and
 demonstrate what energy metaphysicians have known all along — that
 humans can heal each other simply through energy transfer just as plants
 do. “Human can absorb and heal through other humans, animals, and any
 part of nature. That’s why being around nature is often uplifting and
-energizing for so many people,” she concluded.&amp;rdquo;
-While a lot of people are rightly suspicious of something that looks
+energizing for so many people,” she concluded.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;While a lot of people are rightly suspicious of something that looks
 like outright magic, claims by people like Dr. Bader-Lee, which are a
 bit more subtle, aren&amp;rsquo;t met by the same level of skepticism. Which might
 make these claims just as much as, if not more counter to the actual
 process of genuine science as claims of magic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/universe-person-silhouette-star-1044107/&#34;&gt;Cover Image
+Source&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
